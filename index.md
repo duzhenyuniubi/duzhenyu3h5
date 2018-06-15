@@ -2,7 +2,7 @@
 <html lang="en">
 <head>
     <meta charset="UTF-8">
-    <title>duzhenyuzhongyinimabi</title>
+    <title>牛逼</title>
 </head>
 <body>
 青山隐隐重楼
